@@ -1,7 +1,7 @@
 # Netflix website cloned
 The idea came to my mind by watching hulu website cloned website from travesy media 
 <br>
-Check out his video from www.youtube.com/channel/travesymedia 
+Check out his video from https://youtube.com/c/TraversyMedia 
 
 This project is not 100% cloned of main website of Netflix India
 ---
